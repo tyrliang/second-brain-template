@@ -137,3 +137,12 @@ scripts/     ← Utility scripts for PDF extraction
 The `.compiled_` prefix is the agent's "done" marker. A file named `my-article.md` becomes `.compiled_my-article.md` after processing. The agent skips any file already prefixed with `.compiled_`.
 
 This preserves the original source without deleting it, keeping it searchable.
+
+---
+
+## Credits
+
+This system and prompts are based on:
+
+- **Chase AI Community** — [Second Brain classroom lesson](https://www.skool.com/chase-ai-community/classroom/4fe79bd0?md=0f0e5f837fdc4760aa100b35a85c6498)
+- **Andrei Karpathy** — [original concept post on X](https://x.com/karpathy/status/2039805659525644595)

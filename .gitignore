@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+.AppleDouble
+._*
+
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Obsidian — personal layout state (auto-generated per user, don't share)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Claude Code — personal project preferences (don't commit)
+CLAUDE.local.md

@@ -146,3 +146,7 @@ This system and prompts are based on:
 
 - **Chase AI Community** — [Second Brain classroom lesson](https://www.skool.com/chase-ai-community/classroom/4fe79bd0?md=0f0e5f837fdc4760aa100b35a85c6498)
 - **Andrei Karpathy** — [original concept post on X](https://x.com/karpathy/status/2039805659525644595)
+
+---
+
+*Built by [tyrliang](https://github.com/tyrliang)*
